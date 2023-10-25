@@ -1,9 +1,13 @@
  
 
-# Presentation: Amazon Elastic Block Store (EBS) Recommendation for Expedia
+# Amazon Elastic Block Store (EBS) Recommendation for Expedia
+![image](https://github.com/ketanksagar/AWS_EBS_Suggest_usecase/assets/117306864/2fa36281-141c-44ad-be24-a415000061f2)
+
 
 ## Introduction
-This repository contains a presentation that highlights my recommendations for choosing the right Amazon Elastic Block Store (EBS) volume type to optimize performance, cost, and security for Expedia's online travel services. The presentation is tailored specifically for a Data Analyst position and showcases my analytical and decision-making skills in a real-world context.
+Welcome to this repository, which delves into the strategic utilization of Amazon Elastic Block Store (Amazon EBS) volume types for Expedia, a prominent player in the online travel industry. I am delighted to share my expertise in AWS, coupled with data analytics, to guide the selection of the most suitable EBS volume type that aligns with Expedia's technical needs and business objectives.
+
+This presentation is a testament to the power of AWS in transforming the way Expedia manages its infrastructure, emphasizing the potential for improved performance, cost optimization, and heightened security. With a background in AWS and data-driven decision-making, I aim to showcase the strategic insights that can be harnessed to enhance Expedia's infrastructure while ensuring a seamless and secure online travel experience for its global user base.
 
 ## Presentation Highlights
 This presentation focuses on recommending the most suitable Amazon Elastic Block Store (EBS) volume type for Expedia's online travel services. It provides insights into Expedia's current infrastructure challenges and the advantages of transitioning to a cloud-based solution. The EBS volume types are introduced, with a specific recommendation for Provisioned IOPS (SSD) explained in detail. Security considerations are addressed, and the presentation concludes by emphasizing the importance of choosing the right EBS volume type to optimize performance, cost, and security.
