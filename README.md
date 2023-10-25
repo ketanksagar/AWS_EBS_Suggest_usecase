@@ -15,6 +15,10 @@ This presentation focuses on recommending the most suitable Amazon Elastic Block
 ## Why This Presentation Matters
 This presentation demonstrates my ability to analyze complex technical scenarios, make data-driven recommendations, and communicate them effectively. As a Data Analyst, my skills extend beyond data analysis and encompass the ability to leverage data and insights to inform critical business decisions. In this presentation, I've shown my capacity to translate technical information into a clear, concise, and visually appealing format for diverse stakeholders.
 
+This presentation showcases my capacity to distill intricate technical information into clear, compelling narratives, proving my ability to bridge the gap between technical intricacies and impactful business decisions.
+
+By considering this presentation, you gain insight into my capabilities and how I can leverage AWS to drive innovation, improve infrastructure, and ensure a superior online experience for Expedia's global user base. Also, Presentation serves as a evidence to my problem-solving prowess and critical thinking skills in the realm of Amazon Web Services (AWS). It underscores my ability to apply my AWS knowledge to real-world scenarios, making strategic recommendations for complex technical challenges. By evaluating Expedia's infrastructure and proposing the ideal EBS volume type, I demonstrate the power of data-driven decision-making in optimizing performance, cost, and security.
+
 ## How to Use This Repository
 - Review the presentation slides for an in-depth understanding of the EBS volume type recommendation for Expedia.
 - Explore the optional pamphlet providing a table for comparing different EBS volume types.
