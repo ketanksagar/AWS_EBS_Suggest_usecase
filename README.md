@@ -26,7 +26,6 @@ By considering this presentation, you gain insight into my capabilities and how 
 
 ## Contact
 If you have any questions or would like to discuss this presentation or other related topics further, please feel free to contact me. You can reach through my LinkedIn profile.
-
-Thank you for considering my work, and I look forward to discussing how my skills can contribute to your team's success.
+Thank you for considering my work, and I look forward to discussing how my skills can contribute to your team's success WITH MY KNOWLEDGE.
 
 [LinkedIn](https://www.linkedin.com/in/ketan-ksagar/)
