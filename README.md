@@ -21,7 +21,7 @@ By considering this presentation, you gain insight into my capabilities and how 
 
 ## How to Use This Repository
 - Review the presentation slides for an in-depth understanding of the EBS volume type recommendation for Expedia.
-- Explore the optional pamphlet providing a table for comparing different EBS volume types.
+- Explore the optional pamphlet providing a table for comparing different EBS volume types for evaluation.
 - Consider the architecture, analysis, and recommendations as a sample of my data analysis and communication skills.
 
 ## Contact
